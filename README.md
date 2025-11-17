@@ -7,7 +7,7 @@ Built with Python, Streamlit, and NLP (RoBERTa sentiment model), the dashboard a
 
 🚀 Live App
 
-**https://sf-campaign-dashboard-xg4jjqbjkxv69v6pujecuk.streamlit.app**
+**https://sf-campaign-dashboard-xg4jiqbjkvx69v6pujecuk.streamlit.app/**
 
 🔍 Features
 ✔ Reddit Data Pipeline
