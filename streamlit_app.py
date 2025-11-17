@@ -5,7 +5,7 @@ import streamlit as st
 from datetime import timedelta
 
 # ---------- Load ----------
-CSV_PATH = "/content/processed_posts_sf.csv"  # change if needed
+CSV_PATH = "processed_posts_sf.csv"  # change if needed
 if not os.path.exists(CSV_PATH):
     st.set_page_config(page_title="SF Campaign Decision Dashboard", layout="wide")
     st.error(f"CSV not found: {CSV_PATH}. Make sure you've created it first.")
