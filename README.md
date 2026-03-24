@@ -9,12 +9,6 @@ Built with Python, Streamlit, and NLP (RoBERTa sentiment model), the dashboard a
 
 **https://sf-campaign-dashboard-xg4jiqbjkvx69v6pujecuk.streamlit.app/**
 
-- **Notebook (HTML Report)**  
-  [Open the HTML report](reports/Interactive_political_app_focused_in_San_Francisco_Oscar_Hernandez.html)
-
-- **Source Notebook (.ipynb)**  
-  [Open the Jupyter notebook](notebooks/Interactive_political_app_focused_in_San_Francisco_Oscar_Hernandez.ipynb)
-
 🔍 Features
 ✔ Reddit Data Pipeline
 
